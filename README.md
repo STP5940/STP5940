@@ -8,7 +8,7 @@ Code name => [STP5940](https://github.com/STP5940)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,bootstrap,nuxtjs,vuetify,jquery,nodejs,express,prisma,php,laravel,py,mysql,postgres,postman,vscode,cloudflare" />
+    <img width="50%" src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,bootstrap,nuxtjs,vuetify,jquery,nodejs,express,prisma,php,laravel,py,mysql,postgres,postman,vscode,cloudflare" />
   </a>
 </p>
 
