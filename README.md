@@ -14,4 +14,4 @@ Code name => [STP5940](https://github.com/STP5940)
 
 <img src="https://img.shields.io/github/followers/STP5940?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STP5940&langs_count=5&title_color=3382ed&text_color=000000&icon_color=ef4444&bg_color=f9f9fb&hide_border=true&locale=en&custom_title=💪%20%Top%205%20Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=STP5940&langs_count=5&title_color=3382ed&text_color=000000&icon_color=ef4444&bg_color=f9f9fb&hide_border=true&locale=en&custom_title=🎖%20%Top%205%20Languages" alt="Top Languages" />
