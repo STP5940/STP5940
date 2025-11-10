@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- Nickname => Pà
-- First name => Sitthipong
-- Last name => Sengdonprai
+- Full name => Sitthipong Sengdonprai
 - Code name => [STP5940](https://github.com/STP5940)
 
 <p align="center">
