@@ -13,8 +13,8 @@
 
 ### 💫 Nuxt4JS Full Stack Application
 **Modern full-stack solution**
-- **Frontend Application**: [https://nuxtjs4-app.onrender.com](https://nuxtjs4-app.onrender.com)
-- **Backend API**: [https://nuxtjs4-app.onrender.com/api/v1/users](https://nuxtjs4-app.onrender.com/api/v1/users)
+- **Frontend Application**: [https://nuxtjs4.onrender.com](https://nuxtjs4.onrender.com)
+- **Backend API**: [https://nuxtjs4.onrender.com/api/v1/users](https://nuxtjs4.onrender.com/api/v1/users)
 - **Technology**: Nuxt.js 4 + TypeScript + Prisma ORM + MSSQL
 
 <p align="center">
