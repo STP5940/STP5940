@@ -8,7 +8,7 @@
 
 ### ⚡ ElysiaJS Backend API
 **A high-performance Bun runtime backend**
-- **API Documentation**: [https://elysiajs-app.onrender.com/swagger](https://elysiajs-app.onrender.com/swagger)
+- **API Documentation**: [https://elysiajs.onrender.com/swagger](https://elysiajs.onrender.com/swagger)
 - **Technology**: ElysiaJS + Bun + Prisma ORM + MSSQL
 
 ### 💫 Nuxt4JS Full Stack Application
